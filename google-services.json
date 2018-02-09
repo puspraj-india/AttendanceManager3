@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "464216204487",
+    "firebase_url": "https://signin-kavi.firebaseio.com",
+    "project_id": "signin-kavi",
+    "storage_bucket": "signin-kavi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464216204487:android:3b19e923f1912d65",
+        "android_client_info": {
+          "package_name": "com.example.home.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464216204487-rpi8oq9n24vi044usighqj4bfcdhq9vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4JlgGMP4Ll78FQoMrR4g4Z-t6lLRPkmM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
